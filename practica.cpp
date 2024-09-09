@@ -80,7 +80,7 @@ int main(){
     pila.push(5);
     pila.push(3);
     pila.push(9);
-    cout<<"pila antes del reemplazo\n";
+    cout<<"pila antes de eliminar\n";
     mostrarpila(pila);
     eliminar(pila,2);
     mostrarpila(pila);
